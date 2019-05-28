@@ -30,7 +30,7 @@ int main(void){
 	}
 	
 	/* Mostrar el resultado*/
-	printf ("El sumatorio de raices: ");N
+	printf ("El sumatorio de raices: ");
 	printf ("de %d a %d: %f\n",a,b,s);
 	
 	return 0;
